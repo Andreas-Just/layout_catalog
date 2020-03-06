@@ -154,7 +154,7 @@ body {
 }
 
 .feedback-price,
-.card-price {
+.price {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -185,15 +185,15 @@ body {
   }
 }
 
-.card-price {
+.price {
   align-items: baseline;
-}
 
-.price__buy {
-  font-size: 16px;
-  font-weight: bold;
-}
+  &__buy {
+    font-size: 16px;
+    font-weight: bold;
+  }
 
-.price-cost {
-  margin-top: 25px;
+  &__cost {
+    margin-top: 25px;
+  }
 }
