@@ -4,6 +4,7 @@
     - [TEST REPORT LINK](https://andreas-just.github.io/layout_catalog/report/html_report/)
     - [PULL REQUEST](https://github.com/mate-academy/layout_catalog/pull/363)
     - [PULL REQUEST «Smooth-changes»](https://github.com/Andreas-Just/layout_catalog/pull/1)
+    - [PULL REQUEST «Grid»](https://github.com/Andreas-Just/layout_catalog/pull/2)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
     - Write styles in `src/styles/main.scss` instead of `src/style.css`.
 ___

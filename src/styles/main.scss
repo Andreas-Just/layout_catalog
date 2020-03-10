@@ -80,22 +80,20 @@ body {
 }
 
 .page-main {
-  margin: 50px auto 30px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  width: 944px;
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(4, 202px);
+  justify-content: center;
+  grid-gap: 51px 46px;
 }
 
 .product-card {
-  padding: 14px;
-  width: 200px;
+  padding: 15px;
   height: 402px;
   background-color: #fff;
   border: 1px solid #f3f3f3;
   box-sizing: border-box;
   border-radius: 5px;
-  margin-bottom: 51px;
 
   &__inner-img {
     width: 160px;
